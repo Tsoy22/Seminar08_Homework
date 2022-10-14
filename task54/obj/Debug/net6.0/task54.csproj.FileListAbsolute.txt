@@ -1,0 +1,15 @@
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/bin/Debug/net6.0/task54
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/bin/Debug/net6.0/task54.deps.json
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/bin/Debug/net6.0/task54.runtimeconfig.json
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/bin/Debug/net6.0/task54.dll
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/bin/Debug/net6.0/task54.pdb
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.csproj.AssemblyReference.cache
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.AssemblyInfoInputs.cache
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.AssemblyInfo.cs
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.csproj.CoreCompileInputs.cache
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.dll
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/refint/task54.dll
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.pdb
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/task54.genruntimeconfig.cache
+/Users/vitalytsoy/Documents/GeekBrains/С#/Seminar08_Homework/task54/obj/Debug/net6.0/ref/task54.dll
